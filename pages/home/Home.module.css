@@ -1,0 +1,19 @@
+.homePera{
+   text-align: center;
+   font-size: 25px;
+   margin-top: 10px;
+}
+.homePera:hover{
+   color: rgba(255, 166, 0, 0.826);
+}
+
+.homediv{
+   width: 100%;
+   height: 500px;
+   background-color: gray;
+}
+.homeImg{
+   width: 100%;
+   height: 100%;
+}
+
